@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 struct node           //structure declaration for tree               
 {
     char data[25];
@@ -211,3 +212,5 @@ int main()
     }
     return 0;
 }//end of the main function
+
+// uploaded
